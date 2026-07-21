@@ -83,9 +83,6 @@ Linux User
 - picoCTF
 - pwn.college
 - OverTheWire
-- Codegate CTF
-- UMassCTF
-- SUCTF
 
 ---
 
