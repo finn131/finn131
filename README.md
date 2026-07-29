@@ -86,18 +86,6 @@ Linux User
 
 ---
 
-# 📂 Featured Project
-
-```bash
-cryptohack-writeups/
-├── RSA
-├── XOR
-├── AES
-└── Misc
-```
-
----
-
 # 🐍 Contribution Snake
 
 <p align="center">
