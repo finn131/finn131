@@ -66,12 +66,13 @@ Linux User
 # 📊 Statistics
 
 <p align="center">
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=finn131&theme=github_dark"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=finn131&show_icons=true&theme=darkred&hide_border=true&count_private=true" alt="GitHub Stats"/>
+  <img src="https://streak-stats.demolab.com/?user=finn131&theme=darkred&hide_border=true" alt="GitHub Streak"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=finn131&layout=compact&langs_count=8&theme=darkred&hide_border=true" alt="Top Languages"/>
 </p>
 
 <p align="center">
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=finn131&theme=github_dark"/>
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=finn131&theme=github_dark&utcOffset=7"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=finn131&theme=react-dark&hide_border=true" alt="Contribution Graph"/>
 </p>
 
 ---
@@ -113,6 +114,10 @@ Linux User
 ```
 
 ---
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=finn131&style=for-the-badge&color=darkred" alt="Profile Views"/>
+</p>
 
 <p align="center">
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,100:8B0000&height=120&section=footer"/>
