@@ -66,13 +66,13 @@ Linux User
 # 📊 Statistics
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=finn131&show_icons=true&theme=darkred&hide_border=true&count_private=true" alt="GitHub Stats"/>
+  <img src="https://github-readme-stats.anuraghazra.dev/api?username=finn131&show_icons=true&theme=radical&hide_border=true&count_private=true" alt="GitHub Stats"/>
   <img src="https://streak-stats.demolab.com/?user=finn131&theme=darkred&hide_border=true" alt="GitHub Streak"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=finn131&layout=compact&langs_count=8&theme=darkred&hide_border=true" alt="Top Languages"/>
+  <img src="https://github-readme-stats.anuraghazra.dev/api/top-langs/?username=finn131&layout=compact&langs_count=8&theme=radical&hide_border=true" alt="Top Languages"/>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=finn131&theme=react-dark&hide_border=true" alt="Contribution Graph"/>
+  <img src="https://github-readme-activity-graph.lowlighter.vercel.app/graph?username=finn131&theme=radical&hide_border=true" alt="Contribution Graph"/>
 </p>
 
 ---
